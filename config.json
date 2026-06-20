@@ -1,1 +1,8 @@
-
+{
+  "botName": "My WhatsApp Bot",
+  "ownerNumber": "8801300285514",
+  "timeZone": "Asia/Dhaka",
+  "prefix": ".",
+  "pairingNumber": "8801300285514",
+  "sessionName": "session"
+}
